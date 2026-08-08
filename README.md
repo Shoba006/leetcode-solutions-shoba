@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0022-generate-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0022-generate-parentheses) |
 | [1406-stone-game-iii](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
@@ -72,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0015-3sum) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->

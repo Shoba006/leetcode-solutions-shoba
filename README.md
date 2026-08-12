@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0015-3sum) |
 | [1406-stone-game-iii](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/1406-stone-game-iii) |
 | [3731-find-missing-elements](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/3731-find-missing-elements) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0125-valid-palindrome) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/1616-split-two-strings-to-make-palindrome) |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0022-generate-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->

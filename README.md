@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0069-sqrtx) |
 | [1406-stone-game-iii](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
@@ -108,9 +109,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0069-sqrtx) |
 | [0792-number-of-matching-subsequences](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0792-number-of-matching-subsequences) |
 ## Trie
 |  |
 | ------- |
 | [0792-number-of-matching-subsequences](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0792-number-of-matching-subsequences) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

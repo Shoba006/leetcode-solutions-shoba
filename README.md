@@ -37,12 +37,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0704-binary-search) |
 | [0792-number-of-matching-subsequences](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0792-number-of-matching-subsequences) |
 | [1406-stone-game-iii](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/1406-stone-game-iii) |
+| [3024-type-of-triangle](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/3024-type-of-triangle) |
 | [3731-find-missing-elements](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0069-sqrtx) |
 | [1406-stone-game-iii](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/1406-stone-game-iii) |
+| [3024-type-of-triangle](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/3024-type-of-triangle) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0015-3sum) |
 | [0792-number-of-matching-subsequences](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0792-number-of-matching-subsequences) |
+| [3024-type-of-triangle](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/3024-type-of-triangle) |
 | [3731-find-missing-elements](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
 |  |
@@ -121,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0069-sqrtx) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->

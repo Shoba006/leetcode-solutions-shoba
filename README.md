@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0069-sqrtx) |
 | [1406-stone-game-iii](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/1406-stone-game-iii) |
+| [1486-xor-operation-in-an-array](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/1486-xor-operation-in-an-array) |
 | [3024-type-of-triangle](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/3024-type-of-triangle) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
@@ -128,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/3024-type-of-triangle) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->

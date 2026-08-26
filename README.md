@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0709-to-lower-case) |
 | [0792-number-of-matching-subsequences](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0792-number-of-matching-subsequences) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/1616-split-two-strings-to-make-palindrome) |
+| [2942-find-words-containing-character](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/2942-find-words-containing-character) |
 ## Queue
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0704-binary-search) |
 | [0792-number-of-matching-subsequences](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0792-number-of-matching-subsequences) |
 | [1406-stone-game-iii](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/1406-stone-game-iii) |
+| [2942-find-words-containing-character](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/2942-find-words-containing-character) |
 | [3024-type-of-triangle](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/3024-type-of-triangle) |
 | [3731-find-missing-elements](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/3731-find-missing-elements) |
 ## Math

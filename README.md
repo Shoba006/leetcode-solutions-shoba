@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0387-first-unique-character-in-a-string) |
 | [0792-number-of-matching-subsequences](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0792-number-of-matching-subsequences) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/1406-stone-game-iii) |
 | [2942-find-words-containing-character](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/2942-find-words-containing-character) |
 | [3024-type-of-triangle](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/3024-type-of-triangle) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
 | ------- |
@@ -135,4 +138,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/1486-xor-operation-in-an-array) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Matrix
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->

@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0033-search-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0704-binary-search) |
 | [0792-number-of-matching-subsequences](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0792-number-of-matching-subsequences) |
 | [1406-stone-game-iii](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/1406-stone-game-iii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0704-binary-search) |
 | [0792-number-of-matching-subsequences](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0792-number-of-matching-subsequences) |

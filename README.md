@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0321-create-maximum-number](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0321-create-maximum-number) |
 | [0503-next-greater-element-ii](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0704-binary-search) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0704-binary-search) |
 | [0792-number-of-matching-subsequences](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0792-number-of-matching-subsequences) |
 ## Trie

@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0115-distinct-subsequences) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0022-generate-parentheses) |
 ## Greedy
 |  |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0020-valid-parentheses) |
 | [0321-create-maximum-number](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0321-create-maximum-number) |
 | [0503-next-greater-element-ii](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0503-next-greater-element-ii) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/1673-find-the-most-competitive-subsequence) |

@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0709-to-lower-case) |
 | [0792-number-of-matching-subsequences](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0792-number-of-matching-subsequences) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0678-valid-parenthesis-string) |
 | [0792-number-of-matching-subsequences](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0792-number-of-matching-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0940-distinct-subsequences-ii) |
 | [1406-stone-game-iii](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/1406-stone-game-iii) |
@@ -134,11 +136,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0678-valid-parenthesis-string) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0011-container-with-most-water) |
 | [0321-create-maximum-number](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0321-create-maximum-number) |
+| [0678-valid-parenthesis-string](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0680-valid-palindrome-ii) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Binary Search
@@ -190,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0020-valid-parentheses) |
 | [0321-create-maximum-number](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0321-create-maximum-number) |
 | [0503-next-greater-element-ii](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0678-valid-parenthesis-string) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Monotonic Stack
 |  |

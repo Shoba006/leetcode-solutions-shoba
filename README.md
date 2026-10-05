@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0709-to-lower-case) |
 | [0792-number-of-matching-subsequences](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0792-number-of-matching-subsequences) |
+| [0856-score-of-parentheses](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0940-distinct-subsequences-ii) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [2942-find-words-containing-character](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/2942-find-words-containing-character) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0856-score-of-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0321-create-maximum-number) |
 | [0503-next-greater-element-ii](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0856-score-of-parentheses) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Monotonic Stack
 |  |

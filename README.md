@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0792-number-of-matching-subsequences) |
 | [1406-stone-game-iii](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/1406-stone-game-iii) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/1673-find-the-most-competitive-subsequence) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2942-find-words-containing-character](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/2942-find-words-containing-character) |
 | [3024-type-of-triangle](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/3024-type-of-triangle) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0680-valid-palindrome-ii) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/1673-find-the-most-competitive-subsequence) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Binary Search
 |  |
 | ------- |

@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0678-valid-parenthesis-string) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0125-valid-palindrome) |
 | [0321-create-maximum-number](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0321-create-maximum-number) |
+| [0344-reverse-string](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0680-valid-palindrome-ii) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/1616-split-two-strings-to-make-palindrome) |

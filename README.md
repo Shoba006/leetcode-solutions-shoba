@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0125-valid-palindrome) |
+| [0301-remove-invalid-parentheses](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0392-is-subsequence) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0301-remove-invalid-parentheses) |
 | [3310-remove-methods-from-project](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0301-remove-invalid-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |

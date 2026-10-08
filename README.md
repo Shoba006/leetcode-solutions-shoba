@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0239-sliding-window-maximum](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0239-sliding-window-maximum) |
 | [0321-create-maximum-number](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0321-create-maximum-number) |
 | [0503-next-greater-element-ii](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0560-subarray-sum-equals-k) |
@@ -216,4 +218,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0321-create-maximum-number) |
 | [0503-next-greater-element-ii](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0503-next-greater-element-ii) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/1673-find-the-most-competitive-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->

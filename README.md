@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0033-search-in-rotated-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0053-maximum-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0239-sliding-window-maximum](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0239-sliding-window-maximum) |
 | [0321-create-maximum-number](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0321-create-maximum-number) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0678-valid-parenthesis-string) |
@@ -234,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0239-sliding-window-maximum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Shoba006/leetcode-solutions-shoba/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
